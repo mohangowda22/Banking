@@ -10,8 +10,6 @@ because,
 one who sign-up and log's in may withdraw amount from any other persons but it requries password
 
 ***This project is not for higher levl****
-This project may be used by VTU students for their Mini-Project in 5th semester
-
 *******************************************************
 
 Requierments:
