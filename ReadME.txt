@@ -5,11 +5,6 @@ which requries to sign up first and it will create a random account number
 
 first you must sign-up to login
 
-It is not so sucecessfull project
-because,
-one who sign-up and log's in may withdraw amount from any other persons but it requries password
-
-***This project is not for higher levl****
 *******************************************************
 
 Requierments:
